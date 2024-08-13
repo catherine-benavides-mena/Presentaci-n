@@ -5,8 +5,8 @@
 
 ### About me:
 
-- 👩‍🎓 I'm 23 years old and I'm a Industrial Civil Engineering student, specializing in data science.
-- I've been "profesor auxiliar" of data science realted courses, like "Machine Learning", "Data Analisis and Causal Inference" and "Marketing Engeneering". 
+- 👩‍🎓 I'm a student of Master of Data Science and Industrial Civil Engineering in University of Chile.
+- I've been Teacher Assistant of data science realted courses since 2022, like "Machine Learning", "Data Analisis and Causal Inference" and "Marketing Engeneering". 
 - Hobbies: Playing with my dog, playing videogames with friends, spending time with family and reading. :)
 - Husband: Harry Styles and Pedro Pascal
 
